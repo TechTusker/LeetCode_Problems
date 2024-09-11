@@ -1,50 +1,50 @@
 # LeetCode_SPECIAL-PROBLEMS
 #WEEK1:
 Arrays:✅
-Two Sum
-Best Time to Buy and Sell Stock
-Maximum Subarray
-Container With Most Water
-Rotate Array
+1.Two Sum
+2.Best Time to Buy and Sell Stock
+3.Maximum Subarray
+4.Container With Most Water
+5.Rotate Array
 
 Strings:✅
-Reverse String
-Valid Palindrome
-Longest Substring Without Repeating Characters
-Group Anagrams
-Longest Palindromic Substring
+1.Reverse String
+2.Valid Palindrome
+3.Longest Substring Without Repeating Characters
+4.Group Anagrams
+5.Longest Palindromic Substring
 
 Linked Lists:✅
-Reverse Linked List
-Merge Two Sorted Lists
-Remove Nth Node From End of List
-Linked List Cycle
-Intersection of Two Linked Lists
+1.Reverse Linked List
+2.Merge Two Sorted Lists
+3.Remove Nth Node From End of List
+4.Linked List Cycle
+5.Intersection of Two Linked Lists
 
 Trees:✅
-Maximum Depth of Binary Tree
-Validate Binary Search Tree
-Symmetric Tree
-Binary Tree Level Order Traversal
-Lowest Common Ancestor of a Binary Tree
+1.Maximum Depth of Binary Tree
+2.Validate Binary Search Tree
+3.Symmetric Tree
+4.Binary Tree Level Order Traversal
+5.Lowest Common Ancestor of a Binary Tree
 
 Graphs:✅
-Number of Islands
-Course Schedule
-Word Ladder
-Clone Graph
-Network Delay Time
+1.Number of Islands
+2.Course Schedule
+3.Word Ladder
+4.Clone Graph
+5.Network Delay Time
 
 Sorting and Searching:✅
-Merge Sort
-Quick Sort
-Binary Search
-Search in Rotated Sorted Array
-First Bad Version
+1.Merge Sort
+2.Quick Sort
+3.Binary Search
+4.Search in Rotated Sorted Array
+5.First Bad Version
 
 Dynamic Programming:✅
-Fibonacci Number
-Climbing Stairs
-Longest Increasing Subsequence
-Maximum Subarray Sum
-Coin Change
+1.Fibonacci Number
+2.Climbing Stairs
+3.Longest Increasing Subsequence
+4.Maximum Subarray Sum
+5.Coin Change
